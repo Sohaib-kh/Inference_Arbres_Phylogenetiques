@@ -1,0 +1,2 @@
+# Inférence_Arbres_Phylogenetiques
+Ce projet vise a comparer deux algorithmes d'inférence d'arbres phylogénétiques, notamment Neighbor-Joining et Maximum Vraisemblance. L'objectif est d'analyser leurs performances en termes de précision, complexité computationnelle, et compatibilité avec différents types de données. Ce dépôt contiendra les scripts, les données utilisées pour les tests, et les résultats obtenus pour chaque algorithme.   
